@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+
+.shiny-options-group{
+    font-family: 'Assistant', sans-serif;
+   }
+.legend{    
+    /*font-family: 'Dosis', sans-serif;*/
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+}
+/*.control-label{
+    color:black;
+    font-size : 15px;
+}*/
+#label_y{
+    font-family: 'Assistant', sans-serif;
+}
+body > div > div.row{
+    margin-left: 35px;
+    position: absolute;
+    top: 773px;
+}
+
+body > div.container-fluid > div.row > h6{
+    top: 35px;
+    position: relative;
+    }
